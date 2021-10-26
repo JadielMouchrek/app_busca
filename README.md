@@ -40,10 +40,11 @@ Essas instruções fornecerão uma cópia do projeto em execução na um máquin
 			  -JFixedColScrollPane.java
 			  -Lista_dados_principal.java
 			  -Lista_principal.java
+			  -PDFReader.java
 
 		-nbproject
 		-Telas
-		    -
+		    
 	
 ### Stacks
 	- A aplicação foi desenvolvida em Java para desktop
