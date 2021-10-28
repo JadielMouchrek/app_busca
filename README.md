@@ -15,7 +15,7 @@ Essas instruções fornecerão uma cópia do projeto em execução na um máquin
  Para execução e desenvolvimento do projeto é necessário, ou que tenha instalado:
  - NetBeans
  - MySQL WorkBench
- - Pacote Java Developer Kit - JDK
+ - Pacote Java Development Kit - JDK
 
 ## Desenvolvido com
  - Java
