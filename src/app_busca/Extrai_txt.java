@@ -6,19 +6,14 @@
 package app_busca;
 
 import Telas.Tela_Principal;
-import static com.sun.org.apache.xalan.internal.lib.ExsltDatetime.time;
-import java.io.BufferedReader;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.UnsupportedEncodingException;
+
+import javax.swing.*;
+import java.io.*;
 import java.sql.Date;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.text.DecimalFormat;
 import java.util.Calendar;
-import javax.swing.JOptionPane;
 
 /**
  *
@@ -61,7 +56,7 @@ public class Extrai_txt {
              
              PreparedStatement ps = fab.con.prepareStatement(sql);
             
-             String local_arq = "C:\\Users\\Jadiel\\Desktop\\Pendrive\\Monografia\\Aplicacao\\Teste_PDF\\Teste_PDF.txt";
+             String local_arq = "C:\\Users\\Jadiel\\Documents\\GitHub\\app_busca\\txtFile\\Teste_PDF.txt";
              
               DecimalFormat df2 = new DecimalFormat("");
            

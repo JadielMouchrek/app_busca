@@ -5,12 +5,13 @@
  */
 package app_busca;
 
-import java.io.IOException;
 import com.itextpdf.text.pdf.PdfReader;
 import com.itextpdf.text.pdf.parser.PdfTextExtractor;
+
+import javax.swing.*;
+import java.io.IOException;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
-import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -59,49 +60,57 @@ public class Pdf_Reader {
         Lista_dados_principal list_dados = new Lista_dados_principal();
         System.out.println("Teste4");
 
-        try {
+
 
             
             List<Lista_principal> lista = list_dados.lista_dados(id_usuario);
             
             if (lista != null) {
                 for (Lista_principal arq : lista) {
-                      System.out.println("Dados da lista: " + arq.getlocal_arquivo());
-           
-                    //Carregando o arquivo PDF
-                    PdfReader pdfReader = new PdfReader(arq.getlocal_arquivo());
-                 
+                    try {
+                        System.out.println("Dados da lista: " + arq.getlocal_arquivo());
 
-                    String s = "";
-                    //Extraindo de página em página e jogando numa String
-                    
-                    for (int i = 1; i <= pdfReader.getNumberOfPages(); i++) {
-                        s = s.concat(PdfTextExtractor.getTextFromPage(pdfReader, i) + "\n\n");
-                        //       System.out.println(s);
-                    }
-                    // Identificando PDF com caracteres menores que a quantidade expecificada na condição e inserindo o dados na tabla
-                   if(s.length()<4194304 ){
-                    lista_arq.setlocal_arquivo(arq.getlocal_arquivo());
-                    lista_arq.setdata_listagem(arq.getdata_listagem());
-                    lista_arq.sethora(arq.gethora());
-                    
-                    lista_arq.setconteudo(s);
-                    /*System.out.println(s.length()); */ 
-                    System.out.println(list_dados.inserir(lista_arq, id_usuario));
-                   
-                     }else{
-                         arq = null;
-                   
-                       
+                        //Carregando o arquivo PDF
+                        PdfReader pdfReader = new PdfReader(arq.getlocal_arquivo());
+
+
+                        String s = "";
+                        //Extraindo de página em página e jogando numa String
+
+                        for (int i = 1; i <= pdfReader.getNumberOfPages(); i++) {
+                            try {
+                            s = s.concat(PdfTextExtractor.getTextFromPage(pdfReader, i) + "\n\n");
+                            }  catch (Exception e) {
+                                // Tratar a exceção se necessário
+                                e.printStackTrace();  // ou outro tratamento
+                            }
+                            //       System.out.println(s);
+                        }
+                        // Identificando PDF com caracteres menores que a quantidade expecificada na condição e inserindo o dados na tabla
+                        if (s.length() < 4194304) {
+                            lista_arq.setlocal_arquivo(arq.getlocal_arquivo());
+                            lista_arq.setdata_listagem(arq.getdata_listagem());
+                            lista_arq.sethora(arq.gethora());
+
+                            lista_arq.setconteudo(s);
+                            /*System.out.println(s.length()); */
+                            System.out.println(list_dados.inserir(lista_arq, id_usuario));
+
+                        } else {
+                            arq = null;
+
+
+                        }
+                    }  catch (Exception e) {
+                        // Tratar a exceção se necessário
+                        e.printStackTrace();  // ou outro tratamento
+                        continue;
                     }
                 }
+            } else{
+                System.out.println("Lista Vazia");
             }
 
-
-        } catch (IOException e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
-        }
         return null;
         
         
@@ -122,7 +131,7 @@ public class Pdf_Reader {
             try{
               if (ps.executeUpdate() > 0) {
 
-                 System.out.println("Dados excluídos com sucesso ");
+                 System.out.println("Local do arquivo excluído com sucesso ");
 
             } else {
 
@@ -139,7 +148,7 @@ public class Pdf_Reader {
             
               if (ps2.executeUpdate() > 0) {
 
-                 System.out.println("Dados excluídos com sucesso ");
+                 System.out.println("Dados dos arquivos excluídos com sucesso ");
                  
                
 
@@ -169,7 +178,7 @@ public class Pdf_Reader {
                  Lista_dados_principal list_dados = new Lista_dados_principal();
                  List<Lista_principal> lista = list_dados.lista_dados_compara(id_usuario);
                  Lista_principal lista_arq = new Lista_principal(); 
-                 if (lista != null) {
+                 if (lista != null && !lista.isEmpty()) {
                      for(int i = 0; i < lista.size(); i++) {
                          Lista_principal p = lista.get(i);
                          arquivo_str = p.getconteuto();
@@ -184,8 +193,10 @@ public class Pdf_Reader {
                          }
                      }
                      
+                 } else {
+                     JOptionPane.showMessageDialog(null, "Arquivo não encontrado");
                  }
-                 if (lista != null) {
+                 if (lista != null && !lista.isEmpty()) {
                      
                      for(int i = 0; i < lista.size(); i++) {
                          
@@ -201,8 +212,12 @@ public class Pdf_Reader {
                          }
                      }
                      
+                 } else{
+
+                         JOptionPane.showMessageDialog(null, "Primeira palavra não encontrado");
+
                  }
-                 if (lista != null){          
+                 if (lista != null && !lista.isEmpty()){
                      for (Lista_principal arq : lista) {
                          
                          lista_arq.setlocal_arquivo(arq.getlocal_arquivo());
@@ -215,7 +230,9 @@ public class Pdf_Reader {
                          
                      }
                      
-               }
+               } else{
+                     JOptionPane.showMessageDialog(null, "Segunda palavra não encontrado");
+                 }
                   
 }           
         

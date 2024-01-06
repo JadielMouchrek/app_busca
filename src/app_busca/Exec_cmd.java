@@ -8,9 +8,6 @@ package app_busca;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Scanner;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 
 /**
  *
@@ -72,12 +69,12 @@ public class Exec_cmd {
     {
         String[] cmds = {
             /*"cmd /k chcp 1252"*/
-           "DEL C:\\Users\\Jadiel\\Desktop\\Pendrive\\Monografia\\Aplicacao\\Teste_PDF\\Teste_PDF.txt",
-           /*"cd C:\\Users\\Jadiel\\Desktop\\Pendrive\\Monografia\\Aplicacao\\Teste_PDF",
+            "DEL C:\\Users\\Jadiel\\Documents\\GitHub\\app_busca\\txtFile\\Teste_PDF.txt",
+            /*"cd C:\\Users\\Jadiel\\Desktop\\Pendrive\\Monografia\\Aplicacao\\Teste_PDF",
             "dir /s *.pdf /b /o:n >C:\\Users\\Jadiel\\Desktop\\Pendrive\\Monografia\\Aplicacao\\Teste_PDF.txt" ,*/
-           
-          "cd C:\\Users\\Jadiel\\Desktop\\Pendrive\\Monografia\\Aplicacao\\Teste_PDF\\",
-           "dir /s *.pdf /b /o:n >C:\\Users\\Jadiel\\Desktop\\Pendrive\\Monografia\\Aplicacao\\Teste_PDF\\Teste_PDF.txt"
+            "cd C:\\Users\\Jadiel\\Documents\\GitHub\\app_busca\\txtFile\\",
+            //"cd C:\\Users\\Jadiel\\Documents\\",
+            "dir /s *.pdf /b /o:n >C:\\Users\\Jadiel\\Documents\\GitHub\\app_busca\\txtFile\\Teste_PDF.txt"
         };
 
         try {

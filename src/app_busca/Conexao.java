@@ -31,9 +31,8 @@ public class Conexao {
         try{
         Class.forName(driver);
                 con = DriverManager.getConnection(url, user, password);
-         stmt = con.createStatement();      
-        }catch (Exception e){
-            
+         stmt = con.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE, ResultSet.CONCUR_READ_ONLY);
+        }catch (Exception e){ System.out.println(e);
         }
        return con;
     }

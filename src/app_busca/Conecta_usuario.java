@@ -7,11 +7,9 @@ package app_busca;
 
 import Telas.Tela_Acesso;
 import Telas.Tela_Principal;
+
+import javax.swing.*;
 import java.sql.SQLException;
-import java.util.List;
-import javax.swing.JOptionPane;
-import javax.swing.JPasswordField;
-import javax.swing.JTextField;
 
 /**
  *

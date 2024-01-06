@@ -7,18 +7,14 @@ package Telas;
 import app_busca.Ajust_tabela;
 import app_busca.Conexao;
 import app_busca.Pdf_Reader;
-import java.awt.Color;
-import java.awt.Dimension;
-import java.awt.Toolkit;
+import javax.swing.*;
+import javax.swing.table.DefaultTableModel;
+import java.awt.*;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
 import java.text.SimpleDateFormat;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import javax.swing.JOptionPane;
-import javax.swing.JTable;
-
-import javax.swing.table.DefaultTableModel;
 
 
 
@@ -224,7 +220,7 @@ public String getTexto(){
 
         id_usuario_label.setText("jLabel6");
 
-        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\Jadiel\\Desktop\\Pendrive\\Monografia\\Aplicacao\\App_Busca\\Imagens\\App_busca_principal.JPG")); // NOI18N
+        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\Jadiel\\Documents\\GitHub\\app_busca\\Imagens\\App_busca_principal.JPG")); // NOI18N
         jLabel4.setText("jLabel4");
 
         jButton2.setText("Limpar Histórico");
@@ -386,12 +382,10 @@ public String getTexto(){
               Conexao fab = new Conexao();
               fab.abrirConexao();
         
-             
-             
-              campo_id = Integer.parseInt(id_usuario_label.getText());
-             SimpleDateFormat out = new SimpleDateFormat("dd/MM/yyyy");
+                campo_id = Integer.parseInt(id_usuario_label.getText());
+                SimpleDateFormat out = new SimpleDateFormat("dd/MM/yyyy");
         
-         String sql = "SELECT * from controle_dados where controle_dados.id_usuario ="+campo_id+" ORDER BY controle_dados.data_pesquisa DESC, controle_dados.hora DESC";
+                String sql = "SELECT * from controle_dados where controle_dados.id_usuario ="+campo_id+" ORDER BY controle_dados.data_pesquisa DESC, controle_dados.hora DESC";
          
          
              String Data;
