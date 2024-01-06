@@ -1,0 +1,892 @@
+C:\Downloads\documento.pdf
+C:\Program Files\NetBeans 8.0.2\javacard\JCDK3.0.2_ConnectedEdition\docs\JCDevKitUG-Connected-3_0_2.pdf
+C:\Program Files\NetBeans 8.0.2\nb\shortcuts.pdf
+C:\Program Files\NetBeans 8.0.2\nb\shortcuts_mac.pdf
+C:\Program Files\Oracle\VirtualBox\doc\UserManual.pdf
+C:\Program Files\PDFCreator\COM Scripts\JS Scripts\How To\AttachmentPage.pdf
+C:\Program Files\PDFCreator\COM Scripts\JS Scripts\How To\BackgroundPage.pdf
+C:\Program Files\PDFCreator\COM Scripts\JS Scripts\How To\CoverPage.pdf
+C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\1494870C-9912-C184-4CC9-B401-A53F4D8DE290.pdf
+C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\PDFSigQFormalRep.pdf
+C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\IDTemplates\ENU\AdobeID.pdf
+C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\IDTemplates\ENU\DefaultID.pdf
+C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\plug_ins\Annotations\Stamps\Words.pdf
+C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\plug_ins\Annotations\Stamps\ENU\Dynamic.pdf
+C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\plug_ins\Annotations\Stamps\ENU\SignHere.pdf
+C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\plug_ins\Annotations\Stamps\ENU\StandardBusiness.pdf
+C:\Program Files (x86)\Adobe\Acrobat Reader DC\Resource\ENUtxt.pdf
+C:\Program Files (x86)\Adobe\Adobe Utilities - CS6\ExtendScript Toolkit CS6\ExtendScript Toolkit ReadMe.pdf
+C:\Program Files (x86)\Adobe\Adobe Utilities - CS6\ExtendScript Toolkit CS6\SDK\JavaScript Tools Guide CS6.pdf
+C:\Program Files (x86)\Adobe\Adobe Utilities - CS6\ExtendScript Toolkit CS6\SDK\English\Adobe Intro To Scripting.pdf
+C:\Program Files (x86)\Adobe\Adobe Utilities - CS6\ExtendScript Toolkit CS6\SDK\French\Adobe Intro to Scripting.pdf
+C:\Program Files (x86)\Adobe\Adobe Utilities - CS6\ExtendScript Toolkit CS6\SDK\German\Adobe Intro to Scripting.pdf
+C:\Program Files (x86)\Adobe\Adobe Utilities - CS6\ExtendScript Toolkit CS6\SDK\Japanese\Adobe Intro to Scripting.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-041.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-051.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-061.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-071.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-081.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-091.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-101.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-131.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-141.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-151.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-161.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-171.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-201.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-211.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-221.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-231.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-241.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-251.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-261.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-271.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-281.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-291.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-331.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-351.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-371.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-AA1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-AB1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-AD1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-BA1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-BB1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-BC1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-BD1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-BW1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-DF1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-E11.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-E21.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-E31.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-E41.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\EULA - 668950-xx1\668950-FJ1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-005.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-045.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-055.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-065.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-085.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-095.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-105.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-135.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-145.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-155.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-175.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-205.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-215.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-225.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-235.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-245.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-255.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-265.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-275.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-285.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-295.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-335.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-355.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-AA5.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-AB5.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-AD5.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-BA5.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-BB5.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-BC5.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-BD5.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-BW5.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-DF5.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-E15.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-E25.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-E35.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-E45.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-E55.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-FJ5.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-003.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-043.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-053.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-063.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-083.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-093.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-103.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-133.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-143.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-153.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-173.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-203.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-213.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-223.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-233.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-243.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-253.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-263.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-273.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-283.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-293.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-333.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-353.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-AA3.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-AB3.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-BA3.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-BB3.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-BC3.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-BD3.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-BW3.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-DF3.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-E13.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-E23.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-E33.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-E43.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-E53.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx3\417893-FJ3.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Safety and Comfort - HP - 417893-xx4\417893-AD4.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-001.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-041.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-051.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-061.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-081.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-091.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-101.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-131.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-141.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-151.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-171.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-211.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-221.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-231.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-241.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-251.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-261.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-271.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-281.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-291.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-331.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-351.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-AA1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-AB1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-AD1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-BA1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-BB1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-BC1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-BD1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-BW1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-DF1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-E11.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-E21.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-E31.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-E41.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-E51.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\User Guide - HP - 730443-xx1\730443-FJ1.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\616888-201.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\616888-291.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\616888-E51.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-001_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-031_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-041_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-051_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-061_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-071_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-081_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-091_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-101_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-121_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-131_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-141_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-151_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-171_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-211_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-221_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-231_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-241_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-251_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-261_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-271_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-281_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-331_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-351_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-372_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-AA1_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-AB1_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-AD1_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-BA1_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-BC1_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-BD1_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-BW1_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-DA1_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-DF1_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-E11_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-E21_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-E31_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-E41_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676336-FJ1_GenericHDCD.pdf
+C:\Program Files (x86)\Hewlett-Packard\Documentation\Warranties\676353-BB1_GenericHDCD.pdf
+C:\Program Files (x86)\MySQL\Connector J 5.1.31\docs\connector-j.pdf
+C:\Program Files (x86)\MySQL\MySQL Documentation 5.6.20\refman-5.6-en.a4.pdf
+C:\Program Files (x86)\MySQL\MySQL Documentation 5.6.20\refman-5.6-en.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-041.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-051.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-061.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-071.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-081.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-091.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-101.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-131.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-141.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-151.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-161.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-171.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-201.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-211.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-221.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-231.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-241.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-251.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-261.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-271.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-281.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-291.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-331.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-351.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-371.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-AA1.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-AB1.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-AD1.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-BA1.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-BB1.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-BC1.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-BD1.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-BW1.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-DF1.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-E11.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-E21.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-E31.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-E41.pdf
+C:\SWSetup\HPD1243\EULA - 668950-xx1\668950-FJ1.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-005.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-045.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-055.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-065.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-085.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-095.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-105.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-135.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-145.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-155.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-175.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-205.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-215.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-225.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-235.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-245.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-255.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-265.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-275.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-285.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-295.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-335.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-355.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-AA5.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-AB5.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-AD5.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-BA5.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-BB5.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-BC5.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-BD5.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-BW5.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-DF5.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-E15.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-E25.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-E35.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-E45.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-E55.pdf
+C:\SWSetup\HPD1243\Regulatory, Safety and Environmental Notices - 689409-xx5\689409-FJ5.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-003.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-043.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-053.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-063.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-083.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-093.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-103.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-133.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-143.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-153.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-173.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-203.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-213.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-223.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-233.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-243.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-253.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-263.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-273.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-283.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-293.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-333.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-353.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-AA3.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-AB3.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-BA3.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-BB3.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-BC3.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-BD3.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-BW3.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-DF3.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-E13.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-E23.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-E33.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-E43.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-E53.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx3\417893-FJ3.pdf
+C:\SWSetup\HPD1243\Safety and Comfort - HP - 417893-xx4\417893-AD4.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-001.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-041.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-051.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-061.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-081.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-091.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-101.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-131.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-141.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-151.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-171.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-211.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-221.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-231.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-241.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-251.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-261.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-271.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-281.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-291.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-331.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-351.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-AA1.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-AB1.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-AD1.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-BA1.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-BB1.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-BC1.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-BD1.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-BW1.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-DF1.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-E11.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-E21.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-E31.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-E41.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-E51.pdf
+C:\SWSetup\HPD1243\User Guide - HP - 730443-xx1\730443-FJ1.pdf
+C:\SWSetup\HPD1243\Warranties\616888-201.pdf
+C:\SWSetup\HPD1243\Warranties\616888-291.pdf
+C:\SWSetup\HPD1243\Warranties\616888-E51.pdf
+C:\SWSetup\HPD1243\Warranties\676336-001_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-031_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-041_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-051_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-061_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-071_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-081_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-091_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-101_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-121_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-131_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-141_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-151_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-171_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-211_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-221_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-231_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-241_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-251_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-261_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-271_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-281_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-331_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-351_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-372_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-AA1_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-AB1_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-AD1_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-BA1_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-BC1_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-BD1_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-BW1_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-DA1_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-DF1_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-E11_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-E21_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-E31_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-E41_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676336-FJ1_GenericHDCD.pdf
+C:\SWSetup\HPD1243\Warranties\676353-BB1_GenericHDCD.pdf
+C:\SWSetup\SP63440\ToolDoc\MWG_ProductionOutBoundLicense10-30-09.pdf
+C:\Users\Jadiel\Desktop\file_C_Users_Jadiel_AppData_Local_Diagnostics_460911090_201.pdf
+C:\Users\Jadiel\Desktop\Emuladores\PCSX2\pcsx2-1.2.1-r5875-binaries\Docs\PCSX2_FAQ.pdf
+C:\Users\Jadiel\Desktop\Emuladores\PCSX2\pcsx2-1.2.1-r5875-binaries\Docs\PCSX2_Readme.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\ARH e Comunica‡Æo\Gerenciamento de Comunica‡äes\AVALIA€ÇO GESTÇO COMUNICA€ÇO.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\ARH e Comunica‡Æo\Gerenciamento de Comunica‡äes\GESTÇO DE PROJETOS 2.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\ARH e Comunica‡Æo\Gerenciamento de Comunica‡äes\MANUAL DE TDE_MENEZES ZERBINI ABBAD_1.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\ARH e Comunica‡Æo\Gerenciamento de Comunica‡äes\PMBOK 5ed.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\ARH e Comunica‡Æo\Gerenciamento de Comunica‡äes\RECUTAMENTO E SELECAO.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\ARH e Comunica‡Æo\Gerenciamento de Comunica‡äes\TEXTO DA AVALIA€ÇO - MATRIZ DAS COMUNICA€åES PROJETO UNIDADE 1.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\ARH e Comunica‡Æo\GESTÇO DE PROJETOS\PMBOK 5ed.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Gerenciamento de Processos\As empresas sÆo grandes colecionadoras de processos.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Gerenciamento de Processos\GestÆo de Processos e Qualidade_revisÆo 2016-1a.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Gerenciamento de Processos\Norma NBR ISO 10006 2006.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Gerˆncia de Projetos\PROGRAMA€ÇO_CURSO_ANALISE_DESEMPENHO_ALUNOS_POS_PITAGORAS.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\138-Fabio Fernando Kobs CLICI.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\180-658-1-PB ESTUDO DE CASO.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\2982_h-29_fbddaf79bc IMPORTANTE PARA TODOS.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\36715-43252-1-PB GESTÇO ORGANIZACIONAL EM EMPRESAS FAMILIARES.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\artigo1 CLICI.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\AVALIA€ÇO-DA-QUALIDADE-DO-SERVI€O-EDUCACIONAL-NUMA-INSTITUI€ÇO-DE-ENSINO-SUPERIOR-PRIVADA-_-A-PERSPECTIVA-DE-A.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\Baradel_Martins_Oliveira_2010_Planejamento-e-controle-financ_5683.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\Beatriz_Jackiu SOBRE A GESTÇO DE PROJETOS.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\Dialnet-GerenciamentoDeProjetosSegundoOGuiaPMBOK-5078057.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\ENEGEP2006_TR530348_7491 DIEGO E PHILLIP.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\lourdes_souza_sao_carlos ENVIAR.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\tegico_8885 IMPORTANTE PARA TODOS.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\DISCIPLINA METODOLOGIA CIENTÖFICA\E-book Metodologia do Trabalho Cientifico.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\DISCIPLINA METODOLOGIA CIENTÖFICA\metodologia_cientifica e-book.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\DISCIPLINA METODOLOGIA CIENTÖFICA\ARTÖGOS CIENTÖFICOS\180-658-1-PB ESTUDO DE CASO.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\DISCIPLINA METODOLOGIA CIENTÖFICA\ARTÖGOS CIENTÖFICOS\Dialnet-GerenciamentoDeProjetosSegundoOGuiaPMBOK-5078057.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\DISCIPLINA METODOLOGIA CIENTÖFICA\ARTÖGOS CIENTÖFICOS\EOR2508.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\DISCIPLINA METODOLOGIA CIENTÖFICA\ARTÖGOS CIENTÖFICOS\OK-rs56607_melany-07-2015.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\DISCIPLINA METODOLOGIA CIENTÖFICA\ARTÖGOS CIENTÖFICOS\Pontes_2012_Analise-do-tema-gestao-estrate_32513.pdf
+C:\Users\Jadiel\Desktop\MBA GetÆo de Projetos\Metodologia Cient¡fica\DISCIPLINA METODOLOGIA CIENTÖFICA\ARTÖGOS CIENTÖFICOS\Welton - Proposicao.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Boleto.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Documento emitido via Portal do Aluno.pdf
+C:\Users\Jadiel\Desktop\Pendrive\k19-k01-logica-de-programacao.pdf
+C:\Users\Jadiel\Desktop\Pendrive\k19-k02-desenvolvimento-web-com-html-css-e-javascript.pdf
+C:\Users\Jadiel\Desktop\Pendrive\k19-k11-orientacao-a-objetos-em-java.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia completa.pdf
+C:\Users\Jadiel\Desktop\Pendrive\prolog-video-locadora(fazer questäes).pdf
+C:\Users\Jadiel\Desktop\Pendrive\Tanenbaum(1).pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\2 - servulo - organiza‡Æo de arquivos\1bi\Atividade 1.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\2 - servulo - organiza‡Æo de arquivos\2bi\Prova Oficial 1 Estrutura de dados Matutino.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\AtEst.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Aula1-diagrama_classes.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\DiagColaboraAl.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\diagrama.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Diagramas_Intera‡Æo.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Apˆndice 1.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Apˆndice 2.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 1.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 10.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 11.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 12.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 13.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 14.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 15.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 16.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 17.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 18.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 19.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 2.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 20.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 21.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 22.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 23.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 24.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 25.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 26.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 27.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 28.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 29.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 3.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 30.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 31.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 4.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 5.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 6.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 7.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 8.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 9.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Referˆncia.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\6 - edil - circuitos digitais\2bi\Elementos de Eletronica Digital - Idoeta e Capuano.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\6 - edil - circuitos digitais\2bi\ronaldo tocci - sistemas digitais - princ¡pios e aplica‡äes.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\6§ Per¡odo\6 - edil - circuitos digitais\2bi\sistemas digitais - fundamentos e aplica - floyd, thomas l_.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\modelo de artigo.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\ap_introducao.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\Aula_JavaRMI.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\caracterizacao.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\classificacao.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\cliente_servidor.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\comunicacao_confiavel.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\comunicacao_grupo.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\controle_acesso.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\criptografia_assimetrica.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\criptografia_simetrica.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\eleicao_coordenador.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\introducao_tf.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\java_rmi.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\mom_fluxo_dados.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\ponto_ponto.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\processos.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\relogios.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\resiliencia_ae.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\rpc_rmi.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\send_receive.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\sockets.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\3 - Jose Antonio - Redes de Computadores\2466_Furukawa2013Catalogengweb.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\3 - Jose Antonio - Redes de Computadores\Douglas E. Comer - Internetworking With Tcp-Ip - 4th Edition.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\3 - Jose Antonio - Redes de Computadores\Grupo_Policom_cabeamento_estruturado.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\3 - Jose Antonio - Redes de Computadores\NewsGeneration-roteamento.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\3 - Jose Antonio - Redes de Computadores\Redes de Computadores - Tanembaum.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\3 - Jose Antonio - Redes de Computadores\Redes de Computadores e a Internet - James F. Kurose (livro completo).pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\5 - cleriston - linguagens formais e aut“matos\Apostila automatos.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\5 - cleriston - linguagens formais e aut“matos\Cap_01.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\5 - cleriston - linguagens formais e aut“matos\Exerc¡cios_alfabetos_cadeias_linguagens.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\5 - cleriston - linguagens formais e aut“matos\Linguagens_Formais_e_Automatos__pt_BR_.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\5 - cleriston - linguagens formais e aut“matos\trabalho de automatos finitos\05-automatofinitocomsaida-130110021033-phpapp02.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\5 - cleriston - linguagens formais e aut“matos\trabalho de automatos finitos\DivisÆo de grupos_matutino_2014_1.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\5 - cleriston - linguagens formais e aut“matos\trabalho de automatos finitos\Linguagens_Formais_e_Automatos__pt_BR_.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\7§ per¡odo\Est gio Supervisionado I e II\Guia para Est gio Supervisionado I e II.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\8§ Per¡odo\2¦ - Arlison - Inteligˆncia Artificial\Livro IA\IIA+-+IA_cap01.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\8§ Per¡odo\2¦ - Arlison - Inteligˆncia Artificial\Livro IA\IIA+-+IA_cap02.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\8§ Per¡odo\2¦ - Arlison - Inteligˆncia Artificial\Livro IA\IIA+-+IA_cap03.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\8§ Per¡odo\2¦ - Arlison - Inteligˆncia Artificial\Livro IA\IIA+-+IA_cap04.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\8§ Per¡odo\2¦ - Arlison - Inteligˆncia Artificial\Livro IA\IIA+-+IA_cap05.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\8§ Per¡odo\2¦ - Arlison - Inteligˆncia Artificial\Livro IA\IIA+-+IA_cap07.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\8§ Per¡odo\2¦ - Arlison - Inteligˆncia Artificial\Livro IA\IIA+-+IA_cap08.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\8§ Per¡odo\3¦ - Simone - Gerˆncia e Seguran‡a de Redes\SNMP.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\8§ Per¡odo\3¦ - Simone - Gerˆncia e Seguran‡a de Redes\Tanenbaum(1).pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\8§ Per¡odo\6¦ - Fernando - tradutores e compiladores\Aula_00_Compiladores.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\8§ Per¡odo\6¦ - Fernando - tradutores e compiladores\Aula_01_Compiladores.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\8§ Per¡odo\6¦ - Fernando - tradutores e compiladores\Aula_02_Compiladores.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\8§ Per¡odo\6¦ - Fernando - tradutores e compiladores\Aula_03_Compiladores.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\8§ Per¡odo\6¦ - Fernando - tradutores e compiladores\aula1.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\8§ Per¡odo\6¦ - Fernando - tradutores e compiladores\aula2.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\8§ Per¡odo\6¦ - Fernando - tradutores e compiladores\aula3.pdf
+C:\Users\Jadiel\Desktop\Pendrive\CCPITAGORAS\8§ Per¡odo\6¦ - Fernando - tradutores e compiladores\Compiladores.pdf
+C:\Users\Jadiel\Desktop\Pendrive\ImpressÆo\Cerficado Clube do Hacker.pdf
+C:\Users\Jadiel\Desktop\Pendrive\ImpressÆo\certificado do senai.pdf
+C:\Users\Jadiel\Desktop\Pendrive\ImpressÆo\Certificado Intel Storage.pdf
+C:\Users\Jadiel\Desktop\Pendrive\ImpressÆo\Certificado Intel.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Monografia-Vr.Final 2.0.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\280349.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\Aula_00_Compiladores.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\Aula_01_Compiladores.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\Aula_02_Compiladores.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\aula1.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\aula2.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\aula3.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\concurso-SENAC.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\Elementos de Eletronica Digital - Idoeta e Capuano.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\Engenharia de Software - Slides.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap01.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap02.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap03.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap04.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap05.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap07.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap08.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\Inovacao Tecnologica - Artigo.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\Inscricao_7234007.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\Monografia-Vr.2.0.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\Notas_Aula_Engenharia_Requisitos.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\Ocr.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\piaget estagios.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Aplicacao\Teste_PDF\TCC ocr.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Pesquisa\1286480194_ArtigoBolsistasProfeAdriana.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Pesquisa\13_FlavioAugustoBertholdo.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Pesquisa\280349.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Pesquisa\Apostila Java - Grupo PET.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Pesquisa\artigo sbgdoo e sgbdor_ rafael oliveira vasconcelos.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Pesquisa\Artigo_mySQL.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Pesquisa\bd_web_A4.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Pesquisa\capitulo8575221035.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Pesquisa\Engenharia de Software - Slides.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Pesquisa\inclusÆo das tecnologias.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Pesquisa\Inova‡Æo Tecnologica - Artigo.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Pesquisa\Inova‡Æo Tecnologica.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Pesquisa\mysql.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Pesquisa\Notas_Aula_Engenharia_Requisitos.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Pesquisa\Ocr.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Pesquisa\TCC ocr.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Monografia\Pesquisa\www.haskins.yale.edu_Reprints_HL0455.pdf
+C:\Users\Jadiel\Desktop\Pendrive\parcial arlison\prolog-video-locadora(fazer questäes).pdf
+C:\Users\Jadiel\Desktop\Pendrive\TC\DIGITALIZADO - m quinas universais e computabilidade.pdf
+C:\Users\Jadiel\Desktop\Pendrive\TC\teoria_da_computacao_pt_br.pdf
+C:\Users\Jadiel\Desktop\Pendrive\TC\Simuladores\Simulador NORMA\sintaxe-norma.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Visual Basic\4308_vb6.pdf
+C:\Users\Jadiel\Desktop\Pendrive\Visual Basic\5443_Visual Basic.pdf
+C:\Users\Jadiel\Documents\12541976.pdf
+C:\Users\Jadiel\Documents\Comprovante de pag. Unihosp.pdf
+C:\Users\Jadiel\Documents\https_www2.bancobrasil.com.br_aapf_pagamento_867-892.pdf
+C:\Users\Jadiel\Documents\Ingresso.com.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\__ Portal do Aluno __.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Curr¡culo.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Matricula facul.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Banco de Brasil\bb0114_edital.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Banco de Brasil\bb0214_edital.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Concurso INSS\aula 00 (1).pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Concurso INSS\aula 00.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Concurso INSS\aula 01.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Concurso INSS\aula 02.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Concurso INSS\aula 03.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Concurso INSS\aula 04.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Concurso INSS\aula 05 (1).pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Concurso INSS\aula 05.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Concurso INSS\aula 06 (1).pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Concurso INSS\aula 06.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Concurso INSS\aula 10.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Concurso INSS\curso-6222-aula-07-v1.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Concurso INSS\Direito Administrativo Aula 09.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Editais\bbtecnologia_concurso_publico_2015_edital_v1.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Editais\CONCURSO_097_EDITAL01_E_ANEXOS.PDF
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Editais\Ed_1_2013_BACEN_ABT_AT.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Editais\Edital_Analista_e_Tecnologista-ibge.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Editais\INSS_ED._1_ABT.PDF
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Materiais\Exerc¡cios\1001 - Questoes Direito Administrativo - CESPE_pdf.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Materiais\Exerc¡cios\1001 - Questoes Direito Administrativo - ESAF_pdf.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Materiais\Exerc¡cios\1001 - Questoes Direito Constitucional - CESPE_pdf.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Materiais\Exerc¡cios\1001questesdeconcurso-portugus-fcc-2012-140908061110-phpapp01.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Materiais\Exerc¡cios\Caderno de Questäes portugues.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Materiais\Exerc¡cios\pevidenciario_200questoes_INSS_28217.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Concurso INSS\aula 00 (1).pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Concurso INSS\aula 00.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Concurso INSS\aula 01.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Concurso INSS\aula 02.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Concurso INSS\aula 03.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Concurso INSS\aula 04.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Concurso INSS\aula 05 (1).pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Concurso INSS\aula 05.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Concurso INSS\aula 06 (1).pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Concurso INSS\aula 06.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Concurso INSS\aula 10.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Concurso INSS\curso-6222-aula-07-v1.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Concurso INSS\Direito Administrativo Aula 09.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Editais\bbtecnologia_concurso_publico_2015_edital_v1.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Editais\CONCURSO_097_EDITAL01_E_ANEXOS.PDF
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Editais\Ed_1_2013_BACEN_ABT_AT.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Materiais\Exerc¡cios\1001 - Questoes Direito Administrativo - CESPE_pdf.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Materiais\Exerc¡cios\1001 - Questoes Direito Administrativo - ESAF_pdf.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Materiais\Exerc¡cios\1001 - Questoes Direito Constitucional - CESPE_pdf.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Materiais\Exerc¡cios\1001questesdeconcurso-portugus-fcc-2012-140908061110-phpapp01.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Materiais\Exerc¡cios\Caderno de Questäes portugues.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Concursos\Materiais\Exerc¡cios\pevidenciario_200questoes_INSS_28217.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Boleto.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Documento emitido via Portal do Aluno.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\k19-k01-logica-de-programacao.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\k19-k02-desenvolvimento-web-com-html-css-e-javascript.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\k19-k11-orientacao-a-objetos-em-java.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia completa.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\prolog-video-locadora(fazer questäes).pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Tanenbaum(1).pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\2 - servulo - organiza‡Æo de arquivos\1bi\Atividade 1.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\2 - servulo - organiza‡Æo de arquivos\2bi\Prova Oficial 1 Estrutura de dados Matutino.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\AtEst.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Aula1-diagrama_classes.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\DiagColaboraAl.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\diagrama.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Diagramas_Intera‡Æo.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Apˆndice 1.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Apˆndice 2.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 1.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 10.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 11.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 12.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 13.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 14.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 15.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 16.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 17.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 18.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 19.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 2.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 20.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 21.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 22.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 23.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 24.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 25.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 26.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 27.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 28.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 29.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 3.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 30.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 31.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 4.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 5.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 6.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 7.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 8.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Cap¡tulo 9.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\4 - elda - an lise de projetos\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman\Engenharia de Software 7ø Edi‡Æo Roger S.Pressman Referˆncia.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\6 - edil - circuitos digitais\2bi\Elementos de Eletronica Digital - Idoeta e Capuano.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\6 - edil - circuitos digitais\2bi\ronaldo tocci - sistemas digitais - princ¡pios e aplica‡äes.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\6§ Per¡odo\6 - edil - circuitos digitais\2bi\sistemas digitais - fundamentos e aplica - floyd, thomas l_.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\modelo de artigo.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\ap_introducao.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\Aula_JavaRMI.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\caracterizacao.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\classificacao.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\cliente_servidor.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\comunicacao_confiavel.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\comunicacao_grupo.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\controle_acesso.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\criptografia_assimetrica.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\criptografia_simetrica.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\eleicao_coordenador.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\introducao_tf.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\java_rmi.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\mom_fluxo_dados.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\ponto_ponto.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\processos.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\relogios.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\resiliencia_ae.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\rpc_rmi.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\send_receive.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\2 - thiago - sistemas distribuidos\sd\sockets.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\3 - Jose Antonio - Redes de Computadores\2466_Furukawa2013Catalogengweb.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\3 - Jose Antonio - Redes de Computadores\Douglas E. Comer - Internetworking With Tcp-Ip - 4th Edition.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\3 - Jose Antonio - Redes de Computadores\Grupo_Policom_cabeamento_estruturado.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\3 - Jose Antonio - Redes de Computadores\NewsGeneration-roteamento.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\3 - Jose Antonio - Redes de Computadores\Redes de Computadores - Tanembaum.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\3 - Jose Antonio - Redes de Computadores\Redes de Computadores e a Internet - James F. Kurose (livro completo).pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\5 - cleriston - linguagens formais e aut“matos\Apostila automatos.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\5 - cleriston - linguagens formais e aut“matos\Cap_01.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\5 - cleriston - linguagens formais e aut“matos\Exerc¡cios_alfabetos_cadeias_linguagens.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\5 - cleriston - linguagens formais e aut“matos\Linguagens_Formais_e_Automatos__pt_BR_.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\5 - cleriston - linguagens formais e aut“matos\trabalho de automatos finitos\05-automatofinitocomsaida-130110021033-phpapp02.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\5 - cleriston - linguagens formais e aut“matos\trabalho de automatos finitos\DivisÆo de grupos_matutino_2014_1.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\5 - cleriston - linguagens formais e aut“matos\trabalho de automatos finitos\Linguagens_Formais_e_Automatos__pt_BR_.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\7§ per¡odo\Est gio Supervisionado I e II\Guia para Est gio Supervisionado I e II.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\8§ Per¡odo\2¦ - Arlison - Inteligˆncia Artificial\Livro IA\IIA+-+IA_cap01.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\8§ Per¡odo\2¦ - Arlison - Inteligˆncia Artificial\Livro IA\IIA+-+IA_cap02.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\8§ Per¡odo\2¦ - Arlison - Inteligˆncia Artificial\Livro IA\IIA+-+IA_cap03.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\8§ Per¡odo\2¦ - Arlison - Inteligˆncia Artificial\Livro IA\IIA+-+IA_cap04.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\8§ Per¡odo\2¦ - Arlison - Inteligˆncia Artificial\Livro IA\IIA+-+IA_cap05.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\8§ Per¡odo\2¦ - Arlison - Inteligˆncia Artificial\Livro IA\IIA+-+IA_cap07.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\8§ Per¡odo\2¦ - Arlison - Inteligˆncia Artificial\Livro IA\IIA+-+IA_cap08.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\8§ Per¡odo\3¦ - Simone - Gerˆncia e Seguran‡a de Redes\SNMP.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\8§ Per¡odo\3¦ - Simone - Gerˆncia e Seguran‡a de Redes\Tanenbaum(1).pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\8§ Per¡odo\6¦ - Fernando - tradutores e compiladores\Aula_00_Compiladores.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\8§ Per¡odo\6¦ - Fernando - tradutores e compiladores\Aula_01_Compiladores.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\8§ Per¡odo\6¦ - Fernando - tradutores e compiladores\Aula_02_Compiladores.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\8§ Per¡odo\6¦ - Fernando - tradutores e compiladores\Aula_03_Compiladores.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\8§ Per¡odo\6¦ - Fernando - tradutores e compiladores\aula1.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\8§ Per¡odo\6¦ - Fernando - tradutores e compiladores\aula2.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\8§ Per¡odo\6¦ - Fernando - tradutores e compiladores\aula3.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\CCPITAGORAS\8§ Per¡odo\6¦ - Fernando - tradutores e compiladores\Compiladores.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\ImpressÆo\Cerficado Clube do Hacker.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\ImpressÆo\certificado do senai.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\ImpressÆo\Certificado Intel Storage.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\ImpressÆo\Certificado Intel.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\280349.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\Aula_00_Compiladores.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\Aula_01_Compiladores.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\Aula_02_Compiladores.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\aula1.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\aula2.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\aula3.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\concurso-SENAC.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\Elementos de Eletronica Digital - Idoeta e Capuano.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\Engenharia de Software - Slides.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap01.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap02.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap03.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap04.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap05.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap07.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap08.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\Inovacao Tecnologica - Artigo.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\Inscricao_7234007.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\Monografia-Vr.2.0.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\Notas_Aula_Engenharia_Requisitos.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\Ocr.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\piaget estagios.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Aplicacao\Teste_PDF\TCC ocr.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Pesquisa\1286480194_ArtigoBolsistasProfeAdriana.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Pesquisa\13_FlavioAugustoBertholdo.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Pesquisa\280349.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Pesquisa\Apostila Java - Grupo PET.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Pesquisa\artigo sbgdoo e sgbdor_ rafael oliveira vasconcelos.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Pesquisa\Artigo_mySQL.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Pesquisa\bd_web_A4.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Pesquisa\capitulo8575221035.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Pesquisa\Engenharia de Software - Slides.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Pesquisa\inclusÆo das tecnologias.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Pesquisa\Inova‡Æo Tecnologica - Artigo.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Pesquisa\Inova‡Æo Tecnologica.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Pesquisa\mysql.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Pesquisa\Notas_Aula_Engenharia_Requisitos.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Pesquisa\Ocr.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Pesquisa\TCC ocr.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Monografia\Pesquisa\www.haskins.yale.edu_Reprints_HL0455.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\parcial arlison\prolog-video-locadora(fazer questäes).pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\TC\DIGITALIZADO - m quinas universais e computabilidade.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\TC\teoria_da_computacao_pt_br.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\TC\Simuladores\Simulador NORMA\sintaxe-norma.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Visual Basic\4308_vb6.pdf
+C:\Users\Jadiel\Documents\Area de trabalho\Concursos\Trabalhos e Concursos\Pendrive\Visual Basic\5443_Visual Basic.pdf
+C:\Users\Jadiel\Downloads\MinhaConexao_1450301526.pdf
+C:\Users\Jadiel\Dropbox\Aula_07.pdf
+C:\Users\Jadiel\Dropbox\Cap_01.pdf
+C:\Users\Jadiel\Dropbox\CG2009_iluminacao.pdf
+C:\Users\Jadiel\Dropbox\Introdu‡Æo.pdf
+C:\Users\Jadiel\Dropbox\MBA\Fundamentos da GestÆo de Projetos\Trabalho\PROGRAMA€ÇO_CURSO_ANALISE_DESEMPENHO_ALUNOS_POS_PITAGORAS.pdf
+C:\Users\Jadiel\Dropbox\MBA\Gerenciamento de Comunica‡äes\AVALIA€ÇO GESTÇO COMUNICA€ÇO.pdf
+C:\Users\Jadiel\Dropbox\MBA\Gerenciamento de Comunica‡äes\GESTÇO DE PROJETOS 2.pdf
+C:\Users\Jadiel\Dropbox\MBA\Gerenciamento de Comunica‡äes\MANUAL DE TDE_MENEZES ZERBINI ABBAD_1.pdf
+C:\Users\Jadiel\Dropbox\MBA\Gerenciamento de Comunica‡äes\PMBOK 5ed.pdf
+C:\Users\Jadiel\Dropbox\MBA\Gerenciamento de Comunica‡äes\RECUTAMENTO E SELECAO.pdf
+C:\Users\Jadiel\Dropbox\MBA\Gerenciamento de Comunica‡äes\TEXTO DA AVALIA€ÇO - MATRIZ DAS COMUNICA€åES PROJETO UNIDADE 1.pdf
+C:\Users\Jadiel\Dropbox\MBA\Gerenciamento de Processos\As empresas sÆo grandes colecionadoras de processos.pdf
+C:\Users\Jadiel\Dropbox\MBA\Gerenciamento de Processos\GestÆo de Processos e Qualidade_revisÆo 2016-1a.pdf
+C:\Users\Jadiel\Dropbox\MBA\Gerenciamento de Processos\Norma NBR ISO 10006 2006.pdf
+C:\Users\Jadiel\Dropbox\MBA\Metodologia Cient¡fica\138-Fabio Fernando Kobs CLICI.pdf
+C:\Users\Jadiel\Dropbox\MBA\Metodologia Cient¡fica\180-658-1-PB ESTUDO DE CASO.pdf
+C:\Users\Jadiel\Dropbox\MBA\Metodologia Cient¡fica\2982_h-29_fbddaf79bc IMPORTANTE PARA TODOS.pdf
+C:\Users\Jadiel\Dropbox\MBA\Metodologia Cient¡fica\36715-43252-1-PB GESTÇO ORGANIZACIONAL EM EMPRESAS FAMILIARES.pdf
+C:\Users\Jadiel\Dropbox\MBA\Metodologia Cient¡fica\artigo projeto T.I 2.pdf
+C:\Users\Jadiel\Dropbox\MBA\Metodologia Cient¡fica\artigo1 CLICI.pdf
+C:\Users\Jadiel\Dropbox\MBA\Metodologia Cient¡fica\AVALIA€ÇO-DA-QUALIDADE-DO-SERVI€O-EDUCACIONAL-NUMA-INSTITUI€ÇO-DE-ENSINO-SUPERIOR-PRIVADA-_-A-PERSPECTIVA-DE-A.pdf
+C:\Users\Jadiel\Dropbox\MBA\Metodologia Cient¡fica\Baradel_Martins_Oliveira_2010_Planejamento-e-controle-financ_5683.pdf
+C:\Users\Jadiel\Dropbox\MBA\Metodologia Cient¡fica\Beatriz_Jackiu SOBRE A GESTÇO DE PROJETOS.pdf
+C:\Users\Jadiel\Dropbox\MBA\Metodologia Cient¡fica\Dialnet-GerenciamentoDeProjetosSegundoOGuiaPMBOK-5078057.pdf
+C:\Users\Jadiel\Dropbox\MBA\Metodologia Cient¡fica\ENEGEP1998_ART392.pdf
+C:\Users\Jadiel\Dropbox\MBA\Metodologia Cient¡fica\EOR2508.pdf
+C:\Users\Jadiel\Dropbox\MBA\Metodologia Cient¡fica\evento-2008-03 CLICI.pdf
+C:\Users\Jadiel\Dropbox\MBA\Metodologia Cient¡fica\projeto artigo T.I.pdf
+C:\Users\Jadiel\Dropbox\MBA\Metodologia Cient¡fica\tegico_8885 IMPORTANTE PARA TODOS.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\280349.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\Aula_00_Compiladores.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\Aula_01_Compiladores.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\Aula_02_Compiladores.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\aula1.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\aula2.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\aula3.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\concurso-SENAC.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\Elementos de Eletronica Digital - Idoeta e Capuano.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\Engenharia de Software - Slides.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap01.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap02.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap03.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap04.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap05.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap07.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\IIA+-+IA_cap08.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\Inovacao Tecnologica - Artigo.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\Inscricao_7234007.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\Monografia-Vr.2.0.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\Notas_Aula_Engenharia_Requisitos.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\Ocr.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\piaget estagios.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Aplicacao\Teste_PDF\TCC ocr.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Pesquisa\1286480194_ArtigoBolsistasProfeAdriana.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Pesquisa\13_FlavioAugustoBertholdo.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Pesquisa\280349.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Pesquisa\Apostila Java - Grupo PET.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Pesquisa\artigo sbgdoo e sgbdor_ rafael oliveira vasconcelos.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Pesquisa\Artigo_mySQL.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Pesquisa\bd_web_A4.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Pesquisa\capitulo8575221035.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Pesquisa\Engenharia de Software - Slides.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Pesquisa\inclusÆo das tecnologias.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Pesquisa\Inova‡Æo Tecnologica - Artigo.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Pesquisa\Inova‡Æo Tecnologica.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Pesquisa\J2EE.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Pesquisa\mysql.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Pesquisa\Notas_Aula_Engenharia_Requisitos.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Pesquisa\Ocr.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Pesquisa\TCC ocr.pdf
+C:\Users\Jadiel\Dropbox\Monografia\Pesquisa\www.haskins.yale.edu_Reprints_HL0455.pdf
+C:\Users\Jadiel\Pictures\Regulamento_Banda_Larga_Alta_Densidade_R1.pdf
